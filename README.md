@@ -25,6 +25,6 @@ git pull burtlo master
 
 * stub - stub method
 * stubandreturn - stub with return
-* expect - expect method
+* expectvoid - expect method
 * expectandreturn - expect with return
-
+* expectwithblock - expect with a block
