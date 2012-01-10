@@ -1,5 +1,14 @@
 # Xcode Code Snippets
 
+### Installation
+
+```
+cd ~/Library/Developer/Xcode/UserData/CodeSnippets/
+git init
+git remote add burtlo git@github.com:burtlo/xcode-snippets.git
+git pull burtlo master
+```
+
 ### Cedar
 
 * before - beforeEach
