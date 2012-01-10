@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>subwithpartial</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>__block &lt;#class#&gt; *subject;
+__block id partialSubject;
+
+beforeEach(^{
+    subject = [[&lt;#class#&gt; alloc] init];
+    partialSubject = [OCMockObject partialMockForObject:subject];
+    
+    });
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>0AE1DD41-9703-43B8-957B-433BEC2DAD58</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Cedar</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Subject + Partial Mock Subject</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
