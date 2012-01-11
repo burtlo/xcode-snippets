@@ -6,7 +6,7 @@
 	<string>itshould</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>TopLevel</string>
+		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>it(@"should &lt;#behavior#&gt;", ^(void) {
