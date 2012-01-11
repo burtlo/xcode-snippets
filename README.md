@@ -19,6 +19,8 @@ git pull burtlo master
 
 ### OCMock
 
+* mockforclass - Generates a OCMockObject for class
+* mockforprot  - Generates a OCMockObject for protocol
 * subwithpart - Generates a block variable for a subject with a partial mock
 
 ### Expecta
