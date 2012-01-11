@@ -10,7 +10,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>describe(@"&lt;#subject#&gt;", ^(void) {
-    it(@"should &lt;#behavior#&gt;" ^(void) {
+    it(@"should &lt;#behavior#&gt;", ^(void) {
         expect(YES).toBeFalsy(); 
     });
 });
