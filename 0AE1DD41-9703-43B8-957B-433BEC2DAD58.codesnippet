@@ -23,7 +23,7 @@ beforeEach(^{
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Cedar</string>
+	<string>Expecta</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Subject + Partial Mock Subject</string>
 	<key>IDECodeSnippetUserSnippet</key>
