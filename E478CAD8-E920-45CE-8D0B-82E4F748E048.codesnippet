@@ -15,7 +15,7 @@
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>Cedar</string>
+	<string>OCMock</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Expect and Return</string>
 	<key>IDECodeSnippetUserSnippet</key>
