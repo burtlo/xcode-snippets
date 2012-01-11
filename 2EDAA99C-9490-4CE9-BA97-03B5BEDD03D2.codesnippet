@@ -9,8 +9,8 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>describe(@"&lt;#subject#&gt;", ^(void) {
-    it(@"should &lt;#behavior#&gt;", ^(void) {
+	<string>describe(@"&lt;#subject#&gt;", ^{
+    it(@"should &lt;#behavior#&gt;", ^{
         expect(YES).toBeFalsy(); 
     });
 });

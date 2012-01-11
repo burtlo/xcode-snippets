@@ -9,7 +9,7 @@
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>it(@"should &lt;#behavior#&gt;", ^(void) {
+	<string>it(@"should &lt;#behavior#&gt;", ^{
     expect(YES).toBeTruthy();
 });
 </string>
