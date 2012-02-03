@@ -18,11 +18,7 @@ namespace :docs do
       group_title = [ "", "####{summary}", "" ]
       
       group_snippets_output = snippets.map do |snippet|
-        [ "* `#{snippet.shortcut} - `#{snippet.title}",
-          "",
-          "```objc",
-          "#{snippet.code}",
-          "```" ]
+        [ "* #{snippet.title} - `#{snippet.shortcut}`" ]
       end
       
       group_title + group_snippets_output
